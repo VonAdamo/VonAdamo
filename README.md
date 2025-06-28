@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a Fullstack / Blockchain developer with a passion for clear code, real teamwork, and solving actual problems.
+I'm a Fullstack / Blockchain developer with a passion for code, teamwork, and solving actual problems.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/adam-majava) Let's Connect!
 
